@@ -2,8 +2,7 @@ package main.java.zeroglosa;
 
 import java.util.*;
 
-public class Main {
-
+public class App {
 	public static void main(String[] args) throws Exception {
 		String arquivoUm = args[0];
 		String arquivoDois = args[0];
