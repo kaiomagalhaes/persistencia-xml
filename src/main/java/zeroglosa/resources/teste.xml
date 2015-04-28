@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este é um comentário em XML e também HTML -->
+<!-- “nota” é a raiz deste documento XML -->
+
+<turma>
+	<alunos>
+		<email>kaio@kaio.com</email>
+		<nome>kaio</nome>
+	</alunos>
+	<alunos>
+		<email>batuta@batuta.com</email>
+		<nome>batuta</nome>
+	</alunos>
+	<alunos>
+		<email>lolo@lolo.com</email>
+		<nome>lolo</nome>
+	</alunos>
+</turma>
